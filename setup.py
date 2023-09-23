@@ -24,5 +24,6 @@ version='0.0.1',
 author='Sujata',
 author_email='sujataroy2009@gmail.com',
 packages=find_packages(),
-install_requires=get_requirements('/config/workspace/requirements.txt')
+#install_requires=get_requirements('/config/workspace/requirements.txt')
+install_requires=get_requirements('requirements.txt')
 )
