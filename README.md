@@ -16,5 +16,12 @@
 
 ### EC2 instance connection establshied with GitHub, and successfully completed Continuous Integration, Continuous Delivery and Continuous-Deployment
 
+
+![Alt text][image]
+
+
 ### Run instance with Public IPv4 address
 
+![Alt text](image-1.png)
+
+![Alt text](image-2.png)
