@@ -16,12 +16,24 @@
 
 ### EC2 instance connection establshied with GitHub, and successfully completed Continuous Integration, Continuous Delivery and Continuous-Deployment
 
+<p align="center">
+  <img src="https://github.com/Sujata2017/MLOps/blob/master/image.png" width="350" title="hover text">
+  <img src="https://github.com/Sujata2017/MLOps/blob/master/image.png" width="350" alt="accessibility text">
+</p>
 
-![alt text](https://github.com/Sujata2017/MLOps/blob/master/image.png)
 
 
 ### Run instance with Public IPv4 address
 
-![Alt text](https://github.com/Sujata2017/MLOps/blob/master/image-1.png)
+<p align="center">
+  <img src="https://github.com/Sujata2017/MLOps/blob/master/image-1.png" width="350" title="hover text">
+  <img src="https://github.com/Sujata2017/MLOps/blob/master/image-1.png" width="350" alt="accessibility text">
+</p>
 
-![Alt text](https://github.com/Sujata2017/MLOps/blob/master/image-2.png)
+
+<p align="center">
+  <img src="https://github.com/Sujata2017/MLOps/blob/master/image-2.png" width="350" title="hover text">
+  <img src="https://github.com/Sujata2017/MLOps/blob/master/image-2.pngg" width="350" alt="accessibility text">
+</p>
+
+
