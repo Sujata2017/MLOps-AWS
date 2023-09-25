@@ -1,5 +1,8 @@
 ## This is ML project
 
+
+In this project, deployed end to end ml application using ci cd pipelines and github asction uing ECR and EC2 instance.
+
 ### End to End MAchine Learning Project
 1. Docker Build checked
 2. Github Workflow
