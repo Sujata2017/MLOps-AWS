@@ -1,6 +1,6 @@
 ## This is ML project
 
-In this project, deployed end to end ML application using CI CD pipelines and GitHub actions uing ECR and EC2 instance.
+In this project, deployed end to end ML application using CI CD pipelines and GitHub actions using ECR and EC2 instance.
 
 Developed these components:
 * Data Ingestion
@@ -9,7 +9,7 @@ Developed these components:
 * Model Evaluation
 * Model Deployment
 
-Used different ML models like LinearRegression, CatBoostRegressor, KNeighborsRegressor, DecisionTreeRegressor , XGBRegressor, also different ensemble techniques like - AdaBoostRegressor, GradientBoostingRegressor, RandomForestRegressor. 
+Used different ML models like LinearRegression, CatBoostRegressor, KNeighborsRegressor, DecisionTreeRegressor , XGBRegressor, also different ensemble techniques like - AdaBoostRegressor, GradientBoostingRegressor, RandomForestRegressor. From these list of models, got the best model along with the best model score.
 
 
 ### End to End Machine Learning Project deployment in AWS:
