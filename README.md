@@ -1,6 +1,6 @@
 ## This is ML project
 
-In this project, deployed end to end ML application using CI CD pipelines and GitHub actions using ECR and EC2 instance.
+In this project, taken a student database in order to implement student performance predictor. Deployed this end to end ML application using CI CD pipelines and GitHub actions using ECR and EC2 instance.
 
 Developed these components:
 * Data Ingestion
