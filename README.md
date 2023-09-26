@@ -9,6 +9,8 @@ Developed these components:
 * Model Evaluation
 * Model Deployment
 
+Used different ML models like LinearRegression, CatBoostRegressor, KNeighborsRegressor, DecisionTreeRegressor , XGBRegressor, also different ensemble techniques like - AdaBoostRegressor, GradientBoostingRegressor, RandomForestRegressor. 
+
 
 ### End to End Machine Learning Project deployment in AWS:
 1. Docker Build checked
