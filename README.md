@@ -1,6 +1,6 @@
 ## This is ML project
 
-In this project, deployed end to end ml application using CI CD pipelines and GitHub actions uing ECR and EC2 instance.
+In this project, deployed end to end ML application using CI CD pipelines and GitHub actions uing ECR and EC2 instance.
 
 Developed these components:
 * Data Ingestion
