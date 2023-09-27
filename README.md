@@ -6,7 +6,6 @@ Project Pipeline:
 * Data Ingestion
 * Data Transformation
 * Model Trainer
-* Model Evaluation
 * Model Deployment
 
 ### 1. Data Ingestion:
